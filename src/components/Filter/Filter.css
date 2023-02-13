@@ -1,0 +1,10 @@
+.FilterLabel {
+  display: flex;
+  flex-direction: column;
+  margin-left: 64px;
+}
+
+.FilterInput {
+  max-width: 280px;
+  margin-top: 8px;
+}
